@@ -10,6 +10,10 @@ My repository is dedicated to my first Udacity Nanogram Data Scientist project w
 
 ### Instalation <a name="installation"></a>
 The code is saved in .ipynb file and can be run with any tool that support this file format.
+The notebook uses only basic data libraries:
+- pandas
+- numpy
+- matplotlib
 
 ### Project Motivation <a name="motivation"></a>
 While exploring the stackoverflow 2021 dataset, I focused on the programming languages and as a fresh developer, I tried to answer the questions below:
