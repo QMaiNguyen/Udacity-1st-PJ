@@ -25,7 +25,7 @@ While exploring the stackoverflow 2021 dataset, I focused on the programming lan
 All 3 questions are answered in one notebook and the data that I used for this exercise is also available in this repository.
 
 ### Results <a name="results"></a>
-The findings of this project has been published here.
+The findings of this project has been published [here](https://mainguyenudacity.wordpress.com/2021/12/01/programming-languages-for-starter/).
 
 ### Acknowledgements <a name="acknowledgements"></a>
 This project use data from [Stack Overflow Annual Developer Survey](https://insights.stackoverflow.com/survey).\
